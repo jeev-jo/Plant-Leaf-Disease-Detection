@@ -1,0 +1,15 @@
+id_disease,med_name,price,need,unit,url
+2,Captan,790/kg,2,gm/kg of sed ,"http://www.agritech.tnau.ac.in/expert_system/paddy/cpdisbrownspot.html#:~:text=Seed%20treatment%20with%20tricyclazole%20followed,the%20field%20is%20also%20advisable."
+2,Mancozeb,445/kg,2,gm/ltr,"http://www.agritech.tnau.ac.in/expert_system/paddy/cpdisbrownspot.html#:~:text=Seed%20treatment%20with%20tricyclazole%20followed,the%20field%20is%20also%20advisable."
+3,Quinalphos,390/ltr,300,ml / Acre,http://www.agritech.tnau.ac.in/expert_system/paddy/cppests_ricehispa.html
+3,methyl parathion,80/kg,5,kg/acre,http://www.agritech.tnau.ac.in/expert_system/paddy/cppests_ricehispa.html
+4,Carbendazim 50 % WP,700/kg,500,gm/ha,"https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_cereals_paddy.html#:~:text=Leaf%20Blast%20%3A,of%20crop%20(after%20ear%20emergence)"
+4,Tricyclazole 75% WP,700/kg,500,gm/ha,"https://agritech.tnau.ac.in/crop_protection/crop_prot_crop%20diseases_cereals_paddy.html#:~:text=Leaf%20Blast%20%3A,of%20crop%20(after%20ear%20emergence)"
+6,Hexaconazole 5 % SC,480/ltr,10,ml/ltr,https://www.cropscience.bayer.us/learning-center/articles/guard-against-northern-corn-leaf-blight
+6,Mancozeb 64% WP + Metalaxyl 8%,1366/kg,2,gm/ltr,https://www.cropscience.bayer.us/learning-center/articles/guard-against-northern-corn-leaf-blight
+7,Azoxystrobin 11% + Tebuconazole 18.3% SC,1664/ltr,1.5,ml/ltr,https://agcrops.osu.edu/newsletter/corn-newsletter/2017-24/managing-corn-rust-fungicides
+7,Tebuconazole 250 EC,2678/ltr,1,ml/ltr,https://agcrops.osu.edu/newsletter/corn-newsletter/2017-24/managing-corn-rust-fungicides
+8,Tetraconazole 3.8%,1850/ltr,2,ml/ltr,https://en.wikipedia.org/wiki/Corn_grey_leaf_spot
+8,Tebuconazole + Trifloxystrobin 75,7871/kg,100,gm/acre,https://en.wikipedia.org/wiki/Corn_grey_leaf_spot
+1,-,0,0,0,#
+5,-,0,0,0,#
